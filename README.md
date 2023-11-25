@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadandre10&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadandre10" /> </p>
 
-- 🔭 I’m currently working on [favaa optik mitra](https://github.com/MuhamadAndre10/mitra-favaa-api)
+- 🔭 I’m currently working on Freelanch
 
-- 🌱 I’m currently learning **Frameworks, udemy course, message broker, redis, docker, golang, flutter, dart**
+- 🌱 I’m currently learning **Golang and Frameworks, Dart and Flutter, NSQ**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhamadAndre10/](https://github.com/MuhamadAndre10/)
 
