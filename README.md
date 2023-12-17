@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I hate coding:v**
 
+</hr>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/muhamad-andre-6b0746212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-andre-6b0746212" height="30" width="40" /></a>
