@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhamad Andre Priyanto</h1>
-<h3 align="center">I'm Muhamad Andre, a passionate Golang and Flutter developer deeply interested in the world of programming from Indonesian. Let's code and create something amazing together!</h3>
+# 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadandre10&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadandre10" /> </p> 
+Hi There👋, <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadandre10&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadandre10" /> </p>
-
-- 🔭 I’m currently working on Freelanch
-
-- 🌱 I’m currently learning **Golang and Frameworks, Dart and Flutter, NSQ**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MuhamadAndre10/](https://github.com/MuhamadAndre10/)
-
-- 💬 Ask me about **golang**
-
-- 📫 How to reach me **andrepriyanto95@gmail.com,**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing](https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing)
-
-- ⚡ Fun fact **I hate coding:v**
+🔭 I'm Muhamad Andre, I’m currently working on freelance <br>
+🌱 I’m currently learning **Golang and Frameworks, Dart and Flutter, NSQ** <br>
+👨‍💻 All of my projects are available at [https://github.com/MuhamadAndre10/](https://github.com/MuhamadAndre10/) <br>
+💬 Ask me about **golang** <br>
+📫 How to reach me **andrepriyanto95@gmail.com,** <br>
+📄 Know about my experiences [https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing](https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing) <br>
+⚡ Fun fact **I hate coding:v** <br>
 
 </hr>
 
