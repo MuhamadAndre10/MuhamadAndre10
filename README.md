@@ -5,8 +5,8 @@ Hi There👋, <br>
 🔭 I'm Muhamad Andre, I’m currently working on freelance <br>
 🌱 I’m currently learning **Another new technology** <br>
 💬 Ask me about **golang** <br>
-👨‍💻 All of my projects are available at [github](https://github.com/MuhamadAndre10/) <br>
-📄 Know about my [profile](https://drive.google.com/file/d/1VgaYoOtYTF0odRnU2PRe0N1oZ_UXUOvb/view?usp=drive_link) <br>
+👨‍💻 All of my projects are available at github <br>
+📄 Don't be too curious. <br>
 ⚡ Fun fact i am introvert <br>
 
 ## 🍵 Connect me:
