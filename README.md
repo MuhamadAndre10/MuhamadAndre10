@@ -3,49 +3,26 @@
 Hi There👋, <br>
 
 🔭 I'm Muhamad Andre, I’m currently working on freelance <br>
-🌱 I’m currently learning **Golang and Frameworks, Dart and Flutter, NSQ** <br>
-👨‍💻 All of my projects are available at [https://github.com/MuhamadAndre10/](https://github.com/MuhamadAndre10/) <br>
+🌱 I’m currently learning **Another new technology** <br>
 💬 Ask me about **golang** <br>
-📫 How to reach me **andrepriyanto95@gmail.com,** <br>
-📄 Know about my experiences [https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing](https://drive.google.com/file/d/1ZllQqDIOe8U_la1j5cbr19S12BH5VXBj/view?usp=sharing) <br>
-⚡ Fun fact **I hate coding:v** <br>
+👨‍💻 All of my projects are available at [Github](https://github.com/MuhamadAndre10/) <br>
+📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new) <br>
+📄 Know about my [profile](https://drive.google.com/file/d/1VgaYoOtYTF0odRnU2PRe0N1oZ_UXUOvb/view?usp=drive_link) <br>
+⚡ Fun fact i am introvert <br>
 
-</hr>
+## 🍵 Connect me:
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/muhamad-andre-6b0746212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-andre-6b0746212" height="30" width="40" /></a>
-<a href="https://web.facebook.com/andre.priyanto.545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andre.priyanto" height="30" width="40" /></a>
-<a href="https://instagram.com/mndre.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mndre.03" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mndre.03) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-andre-6b0746212)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/andre.priyanto.545)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+## 💻 Stack me:
 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  
-  </p>
+[![My Skills](https://skillicons.dev/icons?i=go,git,vscode,html)]()
 
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![Muhama Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadAndre10&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadAndre10&layout=donut)](https://github.com/muhamadAndre10/github-readme-stats)
 
 
