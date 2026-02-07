@@ -1,6 +1,7 @@
-# 💫 About Me:
+# Hi 👋, I'm Muhamad Andre
+
+### Software Engineer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadandre10&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadandre10" /> </p> 
-Hi There👋, <br>
 
 - 🔭 I'm currently working on **a fullstack**
 
